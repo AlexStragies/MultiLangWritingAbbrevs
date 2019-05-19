@@ -1,3 +1,20 @@
-* MultiLangWritingAbbrevs
+﻿#+Title: MultiLangWritingAbbrevs
+ # <html><script src="js/org-render.js"></script><body><!--
+#+SETUPFILE: Template.setup.org.htm
+#+STARTUP: content align inlineimages latexpreview hideblocks
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/org-view.css" />
+#+options: toc:t
+ # Your Content starts here:
 
+* MultiLangWritingAbbrevs
 ** Collection of scripts and datasources to create "abbrev" definitions in several languages to save on typing.
+
+
+ # Do not edit below this line, or know exactly what you are doing!
+ # Fold up these lines by visually selecting, then SPC
+
+ # DO NOT EDIT BELOW THIS LINE
+ # Local Variables:
+ # mode: org
+ # coding: utf-8-with-signature
+ # End:
