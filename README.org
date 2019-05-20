@@ -4,11 +4,37 @@
 #+STARTUP: content align inlineimages latexpreview hideblocks
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/org-view.css" />
 #+options: toc:t
- # Your Content starts here:
 
 * MultiLangWritingAbbrevs
-** Collection of scripts and datasources to create "abbrev" definitions in several languages to save on typing.
+Collection of scripts and datasources to create "abbrev" definitions in several languages to save on typing.
 
+The main features are:
+- Help with accent typing: In FR-Mode "element" becomes "élément"
+- Avoid many Apostrophes: In EN-Mode "dont" becomes "don't", in FR-Mode "lecole" becomes "l'école"
+- Don't remember the double consonants? "lacesoire" becomes "l'accessoire"
+- skip (some) vowels: For FR "ag" become "âge", For EN "hvnt" could be "haven't"
+- So many pesky spaces: "alecol" becomes "à l’école"
+- ...
+
+OK, the last one looks difficult to remember. It is, but you don't need to remember them, you just need to
+ know the rules that were applied in generating them from a dictionary table following the grammatical rules.
+
+
+For French many thousands of these were generated automatically, and I learn the correct spelling (mostly w.r.t. accents)
+ for new words every day with this.
+
+
+** English
+This list was collated from fragments left and right.
+
+** French
+This list was mostly generated with some lost =awk= and =q= scripts from a language database table.
+
+** Portuguese
+Still to do
+
+** Spanish
+Still to do
 
  # Do not edit below this line, or know exactly what you are doing!
  # Fold up these lines by visually selecting, then SPC
