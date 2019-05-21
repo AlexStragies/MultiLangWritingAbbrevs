@@ -534,6 +534,7 @@
     ("httpL" "http: class=" string 0)
     ("hvae" "have" nil 0)
     ("hvaing" "having" nil 0)
+    ("hvnt" "haven't" nil 2)
     ("hwich" "which" nil 0)
     ("i" "I" nil 0)
     ("idae" "idea" nil 0)
